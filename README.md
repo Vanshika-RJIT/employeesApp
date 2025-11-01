@@ -46,7 +46,7 @@ Displays all employees with their photos, names, and job titles.
 
 ### ➕ Create Employee  
 Form to add new employee details and upload profile image to Cloudinary.  
-<img src="https://res.cloudinary.com/demo/image/upload/v1730567890/create-employee.png" width="320" alt="Create Employee Screen" />
+<img  width="312" height="637" alt="Image" src="https://github.com/user-attachments/assets/25e48385-d5fa-4c89-b956-40360e1bd244" alt="Employee List Screen" />
 
 ---
 
