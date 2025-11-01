@@ -21,7 +21,7 @@ This app allows you to **add, edit, view, and delete employee details** such as 
 ## 🧠 Tech Stack
 
 ### **Frontend (Mobile App)**
-- React Native (Expo)
+- React Native 
 - Redux
 - React Navigation
 - Async Storage
@@ -87,13 +87,12 @@ cd employeesApp
     CLOUD_NAME=your_cloudinary_cloud_name
     API_KEY=your_cloudinary_api_key
     API_SECRET=your_cloudinary_api_secret
-    PORT=5000
     ```  
 4. Start the backend server:  
     ```bash
     npm start
     ```  
-### 📱 Frontend Setup (React Native + Expo)  
+### 📱 Frontend Setup (React Native)  
 1. Navigate to the client folder:  
     ```bash
     cd client
@@ -103,14 +102,10 @@ cd employeesApp
     npm install
     ```  
 3. Update your backend URL in the frontend (if required) — e.g., change the API base URL to your local machine’s IP if using a physical device.  
-4. Start the React Native development server (Expo):  
+4. Start the React Native development server:  
     ```bash
     npm start
     ```  
-5. Once the QR code appears:  
-   - 📱 On Android: scan with **Expo Go** app  
-   - 🍎 On iOS: scan with the **Camera** app or **Expo Go**
-
 ---
 
 ## ☁️ Cloudinary Integration  
