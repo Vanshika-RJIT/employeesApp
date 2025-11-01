@@ -52,6 +52,6 @@ Form to add new employee details and upload profile image to Cloudinary.
 
 ### 👤 Employee Profile  
 Displays the employee’s details such as email, phone number, and salary, with options to edit or delete.  
-<img src="https://res.cloudinary.com/demo/image/upload/v1730567890/profile-screen.png" width="320" alt="Employee Profile Screen" />
+<img width="312" height="637" alt="Image" src="https://github.com/user-attachments/assets/ae9440e1-fa5a-4375-bb68-db5de18a942e" alt="Employee Profile Screen" />
 
 ---
