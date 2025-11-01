@@ -63,7 +63,6 @@ Follow these steps to set up and run the Employee Management App on your local m
 - Node.js (v14 or above)  
 - npm or yarn  
 - MongoDB (or MongoDB Atlas)  
-- Expo CLI for running the React Native app  
 - Cloudinary account for image uploads
 
 ### 🧩 Clone the Repository
