@@ -55,10 +55,3 @@ Displays the employee’s details such as email, phone number, and salary, with 
 <img src="https://res.cloudinary.com/demo/image/upload/v1730567890/profile-screen.png" width="320" alt="Employee Profile Screen" />
 
 ---
-
-## ⚙️ Installation and Setup
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/employee-management-app.git
-cd employee-management-app
