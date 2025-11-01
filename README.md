@@ -40,7 +40,7 @@ This app allows you to **add, edit, view, and delete employee details** such as 
 
 ### 🏠 Employee List  
 Displays all employees with their photos, names, and job titles.  
-<img src="https://res.cloudinary.com/demo/image/upload/v1730567890/employee-list.png" width="320" alt="Employee List Screen" />
+<img  width="312" height="637" alt="Image" src="https://github.com/user-attachments/assets/25e48385-d5fa-4c89-b956-40360e1bd244" alt="Employee List Screen" />
 
 ---
 
